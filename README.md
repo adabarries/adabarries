@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ada!
+- 👋 Hi, I’m Ada! (she/her)
 - I’m relatively new to coding seriously, but it's something I've been wanting to learn and practive with for a good while now!
 - I’m currently learning basic Python, and a little bit of Ruby on the side. Also hoping to get into Ada Dev Academy (yes, same namesake. It's a coincidence.).
 - I love games, and at some point I'd like to make one.
